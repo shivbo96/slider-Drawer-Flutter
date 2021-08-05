@@ -8,6 +8,11 @@ It's a 3D Slider Side Drawer
 
 In This project we will see how to show side drawer(Slider Drawer) on GestureDetector for android and Ios and we will keep making changes in it 
 
+
+## App Final UI
+
+![Preview](/ios_android.png "Ios Android screen")
+
 ### For IOS 
 
 ![Preview](/ios.png "IOS")
@@ -18,6 +23,4 @@ In This project we will see how to show side drawer(Slider Drawer) on GestureDet
 ![App UI](/android.png "Android")
 ![App UI](/android_main.png "Android Main Screen")
 
-## App Final UI
 
-![Preview](/ios_android.png "Ios Android screen")
