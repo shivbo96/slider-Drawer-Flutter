@@ -1,16 +1,23 @@
-# side_drawer_demo
+# Slider Side Drawer
 
-A new Flutter project.
+It's a 3D Slider Side Drawer 
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## [Live Preview](https://github.com/shivbo96/slider-Drawer-Flutter)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+In This project we will see how to show side drawer(Slider Drawer) on GestureDetector for android and Ios and we will keep making changes in it 
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### For IOS 
+
+![Preview](/ios.png "IOS")
+![Preview](/ios_main.png "Ios Main Screen")
+
+### For Android
+
+![App UI](/android.png "Android")
+![App UI](/android_main.png "Android Main Screen")
+
+## App Final UI
+
+![Preview](/ios_android.png "Ios Android screen")
