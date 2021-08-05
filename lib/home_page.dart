@@ -80,6 +80,17 @@ class _HomePageState extends State<HomePage> {
               child: Scaffold(
                 appBar: AppBar(
                   title: Text("3D Drawer Menu"),
+                  leading: Builder(
+                    builder: (context) => IconButton(
+                      onPressed: () {
+                        // Scaffold.of(context).openDrawer();
+                        setState(() {
+                          value == 0 ? value = 1 : value = 0;
+                        });
+                      },
+                      icon: Icon(Icons.menu),
+                    ),
+                  ),
                 ),
                 body: Center(child: Text("Swipe right to open menu ===>")),
               ),
